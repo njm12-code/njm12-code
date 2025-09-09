@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Nathan! 👋
 
 - 🔭 I’m currently working on completing my M.S. degree in Weather and Climate Risk and Data Analytics from UIUC!
 - 🌱 I’m currently learning about GitHub, Visual Studio Code, and end-to-end open science best practices! 
